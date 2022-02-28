@@ -1,0 +1,11 @@
+remove_all_by_distance 13
+hentai
+add
+hentai
+remove_by_id 1
+hentai
+filter_starts_with_name
+hentai
+save
+123
+execute_script script2

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<storage2>
+    <route>
+        <id>1</id>
+        <name>123213</name>
+        <coordinates>
+            <x>0</x>
+            <y>0.0</y>
+        </coordinates>
+        <creationDate>2022-03-01 00:58:55</creationDate>
+        <from>
+            <x>2.0</x>
+            <y>3</y>
+            <z>3</z>
+            <name>aboba</name>
+        </from>
+        <to>
+            <x>2.0</x>
+            <y>3</y>
+            <z>3</z>
+            <name>aboba</name>
+        </to>
+        <distance>3</distance>
+    </route>
+    <route>
+        <id>2</id>
+        <name>123213</name>
+        <coordinates>
+            <x>0</x>
+            <y>0.0</y>
+        </coordinates>
+        <creationDate>2022-03-01 00:58:55</creationDate>
+        <from>
+            <x>2.0</x>
+            <y>3</y>
+            <z>3</z>
+            <name>aboba</name>
+        </from>
+        <to>
+            <x>2.0</x>
+            <y>3</y>
+            <z>3</z>
+            <name>aboba</name>
+        </to>
+        <distance>3</distance>
+    </route>
+    <route>
+        <id>598446861</id>
+        <name>123</name>
+        <coordinates>
+            <x>123</x>
+            <y>123.0</y>
+        </coordinates>
+        <creationDate>2022-03-01 00:59:10</creationDate>
+        <from>
+            <x>123.0</x>
+            <y>123</y>
+            <z>0</z>
+            <name>tomsk</name>
+        </from>
+        <to>
+            <x>123.0</x>
+            <y>123</y>
+            <z>0</z>
+            <name>123</name>
+        </to>
+        <distance>123</distance>
+    </route>
+    <creationDate>2022-03-01T00:58:55.386+03:00</creationDate>
+</storage2>
